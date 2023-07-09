@@ -1,4 +1,4 @@
-**Calculator App**
+Calculator App
 
 This app was made to showcase my React, JavaScript, HTML and CSS skills. 
 Some key functionalities:
